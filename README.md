@@ -1,6 +1,6 @@
 <h1 align="center">TINEX COLLECTIONS</h1>
-<h2>Hi there,</h2> <br>
-This is <b>Tinex Richeae Ocen</b> pursuing a Bachelor's Degree of Computer Security and Forensics,at Uganda Technology And Management University(UTAMU).<br>
+<h2>Wanna Know!,</h2> <br>
+This is <b>Ocen Richard</b> a graduate of Bachelor's Degree of Computer Security and Forensics,from Uganda Technology And Management University(UTAMU).<br>
 <p align="center"><b>***LET'S SHARE YOUR SECURITY CONCERN***</b></p>
 
 
