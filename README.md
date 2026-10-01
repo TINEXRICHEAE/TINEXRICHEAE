@@ -1,6 +1,6 @@
 # Ocen Richard
 
-Software Developer | Cybersecurity Enthusiast | Full-Stack Builder
+Computer Security & Forensics Graduate | Software Developer | Cybersecurity Researcher
 
 GitHub: github.com/TINEXRICHEAE  
 LinkedIn: linkedin.com/in/richard-ocen-bb6625388
