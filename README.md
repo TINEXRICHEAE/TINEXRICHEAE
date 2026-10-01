@@ -3,7 +3,7 @@
 Software Developer | Cybersecurity Enthusiast | Full-Stack Builder
 
 GitHub: github.com/TINEXRICHEAE  
-LinkedIn: linkedin.com/in/your-profile
+LinkedIn: linkedin.com/in/richard-ocen-bb6625388
 
 ---
 
@@ -237,8 +237,8 @@ Biometric authentication-focused project exploring secure user verification and 
 
 ## Contact
 
-- Email: your.email@example.com
-- LinkedIn: linkedin.com/in/your-profile
+- Email: ocenrichard34@gmail.com
+- LinkedIn: linkedin.com/in/richard-ocen-bb6625388
 - GitHub: github.com/TINEXRICHEAE
 
 ---
